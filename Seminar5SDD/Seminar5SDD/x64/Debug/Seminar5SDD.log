@@ -1,0 +1,5 @@
+﻿  Seminar5SDD.c
+C:\Users\Robert\Desktop\Seminar5SDD\Seminar5SDD\Seminar5SDD.c(23,50): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\Robert\Desktop\Seminar5SDD\Seminar5SDD\Seminar5SDD.c(24,5): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\Robert\Desktop\Seminar5SDD\Seminar5SDD\Seminar5SDD.c(109,60): warning C4305: 'function': truncation from 'double' to 'float'
+  Seminar5SDD.vcxproj -> C:\Users\Robert\Desktop\Seminar5SDD\x64\Debug\Seminar5SDD.exe
